@@ -25,7 +25,7 @@ public ICommand DoSomethingCommand
     get
     {
         if (_doSomethingCommand == null)
-            _doSomethingCommand = new MinotaurCommand(DoSomething);
+            _doSomethingCommand = new MinotaurCommand(DoSomething, OutputFormat.Console);
         return _doSomethingCommand;
     }
 }
