@@ -3,6 +3,10 @@ Software diagnostic tool for .NET applications.
 
 ##### Example:
 
+```xaml
+<Button Command="{Binding DoSomethingCommand}"/>
+```
+
 ```c#
 public ICommand DoSomethingCommand
 {
