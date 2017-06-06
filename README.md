@@ -3,12 +3,12 @@ Software diagnostic tool for .NET applications.
 
 ## Example:
 
-#### Instantiate the control using XAML and wire up the command using data binding.
+Instantiate the control using XAML and wire up the command using data binding.
 ```xaml
 <Button Command="{Binding DoSomethingCommand}"/>
 ```
 
-#### Instantiate the command in the ViewModel.
+Instantiate the command in the ViewModel.
 ```c#
 public ICommand DoSomethingCommand
 {
