@@ -1,7 +1,7 @@
 # Minotaur
 Software diagnostic tool for .NET applications.
 
-#### Example Usage:
+##### Example:
 
 ```c#
 public ICommand DoSomethingCommand
