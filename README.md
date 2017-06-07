@@ -1,5 +1,5 @@
 # Minotaur
-Software diagnostic tool for .NET applications.
+This project is my attempt at capturing meaningful usage statistics about my .NET applications. It is intended for use with the Model-View-ViewModel pattern.
 
 ## Example:
 
