@@ -1,5 +1,5 @@
 # Minotaur
-This project is my attempt at capturing meaningful usage statistics about my .NET applications. It is intended for use with the Model-View-ViewModel pattern.
+A reusable API for capturing usage statistics in .NET applications.
 
 ## Example:
 
