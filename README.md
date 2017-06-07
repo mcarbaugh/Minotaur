@@ -1,5 +1,5 @@
 # Minotaur
-A reusable API for capturing usage statistics in .NET applications.
+A reusable API for capturing usage statistics in .NET applications. The current version will output data to the console, a .CSV file, or both.
 
 ## Example:
 
