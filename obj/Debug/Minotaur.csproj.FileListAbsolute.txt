@@ -1,4 +1,0 @@
-C:\Dev\MediaPlayer\Minotaur\bin\Debug\Minotaur.dll
-C:\Dev\MediaPlayer\Minotaur\bin\Debug\Minotaur.pdb
-C:\Dev\MediaPlayer\Minotaur\obj\Debug\Minotaur.dll
-C:\Dev\MediaPlayer\Minotaur\obj\Debug\Minotaur.pdb
